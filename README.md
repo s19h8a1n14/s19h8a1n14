@@ -42,10 +42,7 @@
   <a href="https://codeforces.com/profile/Asi-Shanmukh">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
   </a>
-  <img width="30" />
-  <a href="https://www.codechef.com/users/varadaraju758">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" />
-  </a>
+   
   <img width="30" />
   <a href="https://www.geeksforgeeks.org/user/shanmukh_1199">
     <img src="https://img.shields.io/badge/GeeksforGeeks-00FF00?style=flat&logo=geeksforgeeks&logoColor=white" />
