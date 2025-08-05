@@ -3,12 +3,15 @@
 <h2>🧑‍💻 About Me</h2>
 
 <p align="left">
-  I'm a Full Stack Developer from India, graduated from NIT Durgapur in ECE. I love building web apps, solving problems, and learning new technologies.<br><br>
-  ✨ Creating bugs since 2021<br>
-  📚 I'm currently learning system design and backend scalability<br>
-  🎯 Goals: To become a skilled Software Developer at an MNC and contribute to open-source<br>
-  🎲 Fun fact: I learned frontend to impress users, and backend to impress recruiters.
+  I'm an aspiring Software Developer from India, recently graduated in Electronics and Communication Engineering from NIT Durgapur.<br><br>
+  🚀 I have a strong foundation in Data Structures & Algorithms and core CS subjects like Operating Systems, DBMS, and OOP.<br>
+  💻 I enjoy building full-stack web applications using the MERN stack and have hands-on experience with real-time, scalable systems.<br>
+  📊 I'm also exploring opportunities in Data Analysis, leveraging my problem-solving mindset and familiarity with Python, SQL, and visualization tools.<br><br>
+  🎯 I'm currently seeking SDE, Data Analyst, or Web Development roles where I can contribute and grow.<br>
+  ✨ Creating bugs since 2021. Fixing most of them by now.<br>
+  🎲 Fun fact: I learned frontend to impress users and backend to impress recruiters.
 </p>
+
 
 <h2>🛠️ I Code With</h2>
  
