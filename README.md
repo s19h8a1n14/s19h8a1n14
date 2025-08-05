@@ -7,7 +7,7 @@
   ✨ Creating bugs since 2021<br>
   📚 I'm currently learning system design and backend scalability<br>
   🎯 Goals: To become a skilled Software Developer at an MNC and contribute to open-source<br>
-  🎲 Fun fact: I started as a frontend enthusiast but quickly fell in love with backend and full-stack development!
+  🎲 Fun fact: I learned frontend to impress users, and backend to impress recruiters.
 </p>
 
 <h2>🛠️ I Code With</h2>
