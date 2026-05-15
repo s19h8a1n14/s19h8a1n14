@@ -3,7 +3,7 @@
 <h2>🧑‍💻 About Me</h2>
 
 <p align="left">
-  I'm an aspiring Software Developer from India, recently graduated in Electronics and Communication Engineering from NIT Durgapur.<br><br>
+  I'm an aspiring Software engineer from India, graduated in Electronics and Communication Engineering from NIT Durgapur.<br><br>
   🚀 I have a strong foundation in Data Structures & Algorithms and core CS subjects like Operating Systems, DBMS, and OOP.<br>
   💻 I enjoy building full-stack web applications using the MERN stack and have hands-on experience with real-time, scalable systems.<br>
   📊 I'm also exploring opportunities in Data Analysis, leveraging my problem-solving mindset and familiarity with Python, SQL, and visualization tools.<br><br>
